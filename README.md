@@ -48,7 +48,7 @@ Rust fundamentals including collections, variables, ownership, functions, macros
 
 Open GameClient in VSCode
 
-  -install Live Server vscode extension
+  -Install Live Server vscode extension
   -Then run gameclient with Live Server
 ```
 [Live Server vscode](https://marketplace.visualstudio.com/items?itemName=live-servers.LiveeServer)
